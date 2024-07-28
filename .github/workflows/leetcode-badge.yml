@@ -1,0 +1,20 @@
+name: Leetcode Badge Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: JacobLinCool/LeetCode-Badge-Action@main
+        with:
+          USERNAME: anodo123 # Replace with your LeetCode username
+          CARD_WIDTH: 500
+          SHOW_RANKING: true
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update LeetCode badges
+          file_pattern: README.md
