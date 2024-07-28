@@ -2,6 +2,8 @@
 
 👨‍💻 Experienced Software Engineer | 🐍 Python Expert | 🌐 Full Stack Developer
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/anodo123?theme=dark&font=Noto%20Sans)
+
 Hi there! I'm Ahmad, a passionate software engineer with 3 years of experience in building high-performance applications and leading small teams. I specialize in Python, Django, FastAPI, and RESTful APIs, with a strong background in database management and system design.
 
 ## 🚀 Skills
@@ -46,4 +48,3 @@ JSS ACADEMY OF TECHNICAL EDUCATION, Noida (August 2017 - August 2021)
 - Leet Code: [LeetCode Prfofile] (https://leetcode.com/anodo123)
   
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
-![LeetCode Stats](https://leetcard.jacoblin.cool/anodo123?theme=dark&font=Noto%20Sans)
