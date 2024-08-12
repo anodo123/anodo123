@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: JacobLinCool/LeetCode-Badge-Action@main
+      - uses: leetcode-badge-showcase.vercel.app
         with:
           USERNAME: anodo123 # Replace with your LeetCode username
           CARD_WIDTH: 500
