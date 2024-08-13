@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: LukaszLaskowski/leetcode-badges-action@v1
+      - uses: JacobLinCool/LeetCode-Badge-Action@main
         with:
           USERNAME: anodo123 # Replace with your LeetCode username
           CARD_WIDTH: 500
