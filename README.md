@@ -5,7 +5,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anodo123?theme=dark&font=Noto%20Sans)
 
-Hi there! I'm Ahmad, a passionate software engineer with 3 years of experience in building high-performance applications and leading small teams. I specialize in Python, Django, FastAPI, and RESTful APIs, with a strong background in database management and system design.
+Hi there! I'm Ahmad, a passionate software engineer with 4 years of experience in building high-performance applications and leading small teams. I specialize in Python, Django, FastAPI, and RESTful APIs, with a strong background in database management and system design.
 
 ## 🚀 Skills
 
